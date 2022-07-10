@@ -1,0 +1,40 @@
+label.dateTime
+{
+    font-size: 12px;
+    padding-bottom: 5px;    
+    font-style: italic; 
+    font-weight: 500;
+
+}
+.newsDetails p {
+    font-size: 14px;
+    text-align: justify;
+}
+.newsDetails
+{
+    padding-left:7px;
+    border:none!important;
+}
+label.channelName {
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.slick-next:before, .slick-prev:before {
+    content: '→';
+    color: #95b7d6!important;
+    
+    
+}
+button.slick-prev.slick-arrow {
+    left: 6px;
+}
+ul.newsShareIcons
+{
+    list-style-type: none;
+    display:flex;
+
+}
+ul.newsShareIcons li {
+    padding: 0px 5px;
+    font-size: 16px;
+}

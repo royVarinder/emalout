@@ -1,0 +1,193 @@
+.alignRight 
+{
+    text-align: left;
+}
+
+
+
+.shopRow 
+{
+    margin: 30px 29px;
+    /* background: black; */
+    padding: 20px 50px;
+    text-align: left;
+    background: #ffffff;
+    /* box-shadow: 0px 3px 6px 2px; */
+    transition: 0.3s;
+    padding-left: 10px!important;
+    border-radius: 5px;
+}
+
+
+.dataRow
+{
+    border-bottom: 3px solid #e4d7d7;
+    padding-bottom: 12px;
+    padding-top: 9px;
+    
+
+}
+/* .shopDetails
+{
+
+} */
+
+/* body {} */
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+/* .tabcontent {
+  display: none;
+  padding: 30 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+} */
+.showInfo
+{
+    display:block;
+    padding:30px 12px;
+}
+.showDetails
+{
+    display:none;
+    padding:30px 12px;
+
+}
+.shopDescription
+{
+    text-align: center;
+    padding:0px 30px;
+}
+.allDetails
+{
+    border-top:2px solid #f3f3f3;
+    padding:10px 0px;
+}
+.shopPehragraphDetails
+{
+    text-align: justify;
+}
+.contactNumbers
+{
+    text-align: center;
+    width:50%;
+    margin-left:auto;
+    margin-right: auto;;
+}
+.contactNumbers hr
+{
+    height:3px;
+}
+.showFeatures
+{
+    display :none;
+    padding:30px 12px;
+}
+label.featureslabels
+{
+    padding:10px 10px;
+}
+input.featuresCheckbox {
+    /* padding: auto; */
+    margin: 12px 0px 0px 0px;
+}
+.showReviews
+{
+    display: none;
+    padding:30px 12px;
+}
+.reviewFrom
+{
+    padding:20px 10px;
+}
+button.btn.eMaloutBtn {
+    margin-top: 20px;
+}
+label.reviewerEmail
+{
+    font-weight: 400;
+}
+.reviews
+{
+    padding:10px 5px;
+    border-top:2px solid #f3f3f3;
+}
+.allReviews
+{
+    overflow-y: auto;
+height: 200px;
+
+}
+.socialMediaButtons h3
+{
+    text-align: right;
+}
+.col-md-6.socialMediaButtons {
+    padding: 20px 50px 0px 0px;
+}
+ul.shareShopIcons {
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+ul.shareShopIcons li {
+    margin:0px 10px;
+    font-size: 1.4em;
+}
+/* button\ active {
+    background: #ddd;
+} */
+.vistingCards img {
+    width: 400px;
+}
+.shopPageTabs {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #95b7d6;
+}
+.slick-dots {
+    position: absolute;
+    bottom: 0px!important;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.ShopDetialsLeft
+{
+        padding-left: 30px!important;
+    padding-right: 0px!important;
+}
+
+
+    

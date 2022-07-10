@@ -1,0 +1,57 @@
+.contactUsForm {
+    margin-top:30px;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 70%; */
+    background: #f3f3f3;
+    border-radius: 10px;
+}
+
+.contactUsForm input.form-control, .contactUsForm textarea.form-control, .contactUsForm button
+{
+    margin:10px 0px;
+}
+
+.col-6.contactUsTitle {
+    text-align: left;
+    padding: 8px 14px;
+}
+
+.contactUsTitle h3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.form-group.col-md-6.contactUsScialMedia {
+    text-align: right;
+    padding: 8px 14px;
+
+}
+
+.contactUsScialMedia a.fa {
+    margin: 0px 4px;
+    font-size: 20px;
+    color:#333;
+    transition: 0.4s ease-in-out;
+
+}
+.contactUsScialMedia a.fa:hover {
+    margin: 0px 10px;
+    font-size: 20px;
+    color:#4c4adb;
+    transition: 0.4s ease-in-out;
+}
+ form.contactForm {
+    padding: 0px 32px;
+}
+.col-6.gmapOfMalout {
+    margin-top: 30px!important;
+}
+.gmapOfMalout iframe
+{
+    border-radius: 10px;
+}
+
+.col-6.contact {
+    padding-right: 40px;
+}

@@ -1,0 +1,48 @@
+.newsRow
+{
+    margin: 30px 29px;
+    /* background: black; */
+    padding: 20px 50px;
+    text-align: left;
+    background: #ffffff;
+    box-shadow: 0px 3px 6px 2px;
+    transition: 0.3s;
+    padding-left: 10px!important;
+    border-radius:5px;
+}
+
+.newsRow:hover
+{
+    /* margin: 30px 29px;
+    /* background: black; 
+    padding: 20px 50px;
+    text-align: left;
+    background: #ffffff; */
+    box-shadow: 0px 3px 22px 2px;
+    transition: 0.3s;
+}
+.blog-image img
+{
+    width:100%;
+}
+
+h3.newsTitle {
+    margin: 21px 0px -14px  32px;
+    text-align: left;
+    font-family: Freestyle Script;
+    font-weight: bold;
+    color: #3b6d8f;
+    font-size: 40px;
+}
+
+hr.titleUnderline {
+    height: 2px;
+    color: #333;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+}
+
+ul.newsShareIcons {
+    padding: 0px!important;
+}

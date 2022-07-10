@@ -1,0 +1,156 @@
+.searchModal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    display: none;
+    height: 100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.contentOfModal
+{
+    margin:10% auto;
+    background-color: ivory;
+    width:50%;
+    padding:20px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px;
+    transition: 0.2s;
+}
+.contentOfModal:hover
+{
+    box-shadow: 0px 0px 20px 5px;
+    transition: 0.2s;
+
+
+}
+.card-body.searchedItemList {
+    text-align: left!important;
+    padding:10px;
+}
+.modalHeading {
+    padding: 6px 10px;
+}
+p.newsOrShop
+{
+    font-size:12px;
+    font-weight: 500;
+    padding:0px;
+}
+h3.searchedItemheading {
+    text-align: left;
+}
+.closeBtn
+{
+    text-align:right;
+}
+
+.addStartupModal
+{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    display: none;
+    height: 100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+    overflow-y: auto;;
+}
+.addStartupModal input
+{
+    margin:10px;
+    text-align: left;
+}
+.submitFormContent
+{
+    margin: 8% auto;
+    background-color: ivory;
+    width: 50%;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px;
+    transition: 0.2s;
+    overflow-y: scroll;
+    height: 60%;
+}
+.submitBtn
+{
+    text-align: left;
+}
+label.labelforAllImages {
+    padding: 24px;
+    /* margin: auto auto; */
+    cursor: pointer;
+    border: 3px solid #ccc;
+    font-size: 20px;
+    color: #cccc;
+}
+.uploadImageSection
+{
+    text-align:left;
+}
+h5.formTitles {
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.adminLoginFromModal
+{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    display: none;
+    height: 100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+form.adminloginForm {
+    text-align: left;
+}
+
+.contentOfModal.loginFormContent {
+    width: 28%;
+}
+
+
+.loadingScreenModal
+{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    display: none;
+    height: 100%;
+    width:100%;
+    background-color: rgb(255 255 255 / 88%);
+}
+.modalImage img
+{
+    width:5%
+}
+.modalImage
+{
+    margin: 20% auto;
+    /* background-color: ivory; */
+    width: 50%;
+    /* padding: 20px 20px 20px 20px; */
+    /* border-radius: 10px; */
+    /* box-shadow: 0px 0px 10px 5px; */
+    transition: 0.2s;
+}
+
+.dropzone {
+    border: 1px dashed #ccc;
+    padding: 39px;
+    text-align: center;
+    font-size: 8px;
+}

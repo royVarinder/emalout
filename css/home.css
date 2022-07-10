@@ -1,0 +1,22 @@
+.homePageSection1
+{
+
+    margin:0px 0px 0px 0px;
+}
+
+.width98Row
+{
+    /* width:98%; */
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+}
+/* .width98Row .card-body
+{
+    /* margin:px 0px 0px 0px;    
+} */
+
+.width98Row .card-text
+{
+    margin:15px 0px 20px 0px;
+}
